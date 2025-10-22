@@ -1,6 +1,5 @@
 #Relations
-1. people can buy animals(1-N)
-2. people, stores and staff has addresses(1-1)
-3. staff can sell animals(1-N)
-4. stores have pets(1-N)
-5. animals have kinds(1-N)
+1. pets have 1 breed and kind
+2. addresses have 1 country code and address type
+3. multiple staff can work in 1 store
+4. people can adopt multiple pets

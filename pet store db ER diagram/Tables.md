@@ -1,9 +1,12 @@
 #Tables
 1. customer
-2. store
-3. staff
-4. animal
-5. kind
-6. role
-7. sales
-8. payment
+2. staff
+3. staff_role
+4. store
+5. address
+6. country
+7. address_type
+8. city
+9. pet
+10. breed
+11. transaction
