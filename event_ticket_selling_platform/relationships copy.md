@@ -1,0 +1,10 @@
+# Relations
+1. People can have tweets (1-M)
+2. People can like tweets (1-1)
+3. People can comment to tweets (1-M)
+4. people can follow people (M-M)
+5. People can have premium subscription (1-1)
+6. tweets can have media files in them(1-M)
+7. tweets can have likes (1-M)
+8. tweets can have comments (1-M)
+9. tweets can have comments from people(1-M)
